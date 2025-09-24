@@ -11,9 +11,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+If you switch the Lever 1 to 8 the 7-segment-LED will put out the number with the lever reset you will reset the led's. If you activate more than one lever there wont happen anything
+
 ## How to test
 
 Explain how to use your project
+If you switch the Lever 1 to 8 the 7-segment-LED will put out the number with the lever reset you will reset the led's. If you activate more than one lever there wont happen anything
 
 ## External hardware
 
